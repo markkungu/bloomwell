@@ -3,7 +3,7 @@
     class="min-h-[80vh] w-4/5 mx-auto bg-cover bg-center text-white rounded-xl shadow-lg flex"
     :style="{ backgroundImage: `url(${heroImage})` }"
   >
-    <div class="flex flex-col justify-end gap-4 px-20 pb-20">
+    <div class="flex flex-col justify-end gap-4 px-20 pb-8">
       <h1 class="text-5xl font-bold">
         Empowering Youth Through Integrated Digital Health Support
       </h1>
